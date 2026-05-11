@@ -1,3 +1,3 @@
 hello_git.py
 
-print("")
+print("hello")
